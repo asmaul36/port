@@ -1,1 +1,26 @@
-
+[
+  {
+    "title": "animezn.cc",
+    "url": "https://animezn.cc",
+    "description": "Anime streaming site built for speed, clean playback, and a layout that stays out of the way.",
+    "tags": ["Streaming", "Scraping", "Frontend"]
+  },
+  {
+    "title": "hianime.id",
+    "url": "https://hianime.id",
+    "description": "HiAnime-style streaming platform with scraped sources, fast pages, and a UI tuned for binge watching.",
+    "tags": ["Streaming", "Reverse Engineering", "API"]
+  },
+  {
+    "title": "anikawai.bdanime.tv",
+    "url": "https://anikawai.bdanime.tv",
+    "description": "Anime streaming build on the bdanime stack. Scraped data, tight player flow, mobile-first layout.",
+    "tags": ["Streaming", "Clone", "Node.js"]
+  },
+  {
+    "title": "hindi.bdanime.tv",
+    "url": "https://hindi.bdanime.tv",
+    "description": "Hindi dub anime streaming site with localized content, fast loads, and the same sharp backend pipeline.",
+    "tags": ["Streaming", "Scraping", "Hindi Dub"]
+  }
+]
